@@ -13,6 +13,7 @@ def say_what():
 def main():
     hello(say_what())
     print('xd')
+    print('xdd')
     return 0
 
 
