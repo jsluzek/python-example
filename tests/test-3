@@ -1,2 +1,0 @@
-def test_says_world():
-    assert 3 == 3
